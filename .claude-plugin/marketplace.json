@@ -1,0 +1,13 @@
+{
+  "name": "video-gen-4-claude",
+  "owner": {
+    "name": "waqasxh"
+  },
+  "plugins": [
+    {
+      "name": "video-gen-4-claude",
+      "source": "./",
+      "description": "Generate videos using Google's Gemini API (Veo)"
+    }
+  ]
+}

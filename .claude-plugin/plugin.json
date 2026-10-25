@@ -1,0 +1,10 @@
+{
+  "name": "video-gen-4-claude",
+  "description": "Generate videos using Google's Gemini API (Veo)",
+  "version": "2.0.0",
+  "author": {
+    "name": "waqasxh"
+  },
+  "repository": "https://github.com/waqasxh/video-gen-4-claude",
+  "license": "MIT"
+}
