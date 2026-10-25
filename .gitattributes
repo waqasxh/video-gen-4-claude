@@ -1,5 +1,5 @@
 # Handle line endings
-* text=auto
+* text=auto eol=lf
 
 # Keep Python and Shell files with LF
 *.py text eol=lf
